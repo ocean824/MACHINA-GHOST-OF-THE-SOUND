@@ -1,0 +1,2 @@
+# CodeSpring → Ludus
+Each package: WP ID, requirement IDs, objective/non-goals, dependencies, governing/task specs, subsystem owner, expected Unreal targets, acceptance, tests/Gauntlet, migration/rollback. Context manifest references only needed docs. Sync durable governing docs and active package Markdown into Unreal `Docs/XYRA/`; keep full corpus in repo. Branch `feature/MACHINA-WP-XXXX` when practical; Git/LFS for Unreal assets; exclude Binaries/DerivedDataCache/Intermediate/Saved. Ludus returns evidence; XYRA reviewer closes or reopens findings before promotion.
